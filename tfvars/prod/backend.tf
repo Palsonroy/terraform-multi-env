@@ -1,4 +1,4 @@
-bucket = "daws76s-state-prod"
+bucket = "daws66s-state-prod"
 key    = "multienv"
 region = "us-east-1"
-dynamodb_table = "daws76s-locking-prod"
+dynamodb_table = "daws66s-locking-prod"
